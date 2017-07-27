@@ -1,0 +1,15 @@
+PSRJ           	J1101-6425               
+RAJ            	11:01:44.00              2.400e+00 
+DECJ           	-64:24:43.7              2.400e+01 
+DM             	207.0                    
+PEPOCH         	55000                    
+F0             	195.733020161            
+POSEPOCH       	55000                    
+DMEPOCH        	55000                    
+START 55000
+END 56000
+EPHEM          	DE405                    
+TZRMJD         	55000                    
+TZRFRQ         	1382.0                   
+TZRSITE        	7                        
+UNITS          	TDB                      
